@@ -24,6 +24,11 @@ li {
   list-style: none;
 }
 
+small {
+  text-align: center;
+  display: block;
+  margin: 0 auto;
+}
 .weather-app {
   border: 1px solid #dadde1;
   padding: 15px;
